@@ -1,0 +1,233 @@
+*
+{
+        margin: 0;
+        padding: 0;
+}
+
+body 
+{ 
+	background-color: #ffffff;
+	font-family: verdana;	
+	font-size:8pt;
+	color:#095FA8;
+	margin:0px;
+}
+
+a
+{
+	font-family: verdana;	
+	font-size:9pt;
+	padding-top:2px;
+	color:#333333;
+	line-height:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a.small
+{
+	font-family: verdana;	
+	font-size:8pt;
+	padding-top:2px;
+	color:#333333;
+	line-height:20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a:visited
+{
+	color:#666666;
+}
+
+a:hover
+{
+	color:#0000aa;
+}
+
+table , tr , td
+{
+	font-family: verdana;	
+	font-size:8pt;
+	
+}
+
+th
+{
+	text-align:left;
+	margin-left: 0px;
+}
+
+img
+{
+	border:0px;
+}
+
+textarea, select
+{
+	font-family: verdana;	
+	font-size:8pt;
+	color:#000077;
+}
+
+#errorDetails
+{
+	color: #f00;
+}
+
+#result
+{
+	font-family: verdana;	
+	font-size:10pt;
+}
+
+#content 
+{ 
+	border: 1px solid #ccc;
+	padding: 10px 10px 10px 10px;
+	overflow: hidden; 
+	position: relative; 
+	width: 175px;
+	font-family: verdana;	
+	font-size:8pt;
+	vertical-align:top;
+	margin-left:-10px;
+}
+
+#slider-vertical 
+{ 
+	position: relative; 
+	right: 5px; 
+	margin-top:10px;
+	margin-left:-20px;
+}
+
+#scroll-pane 
+{ 
+	position: relative; 
+	vertical-align:top;
+}
+
+
+.checkbox
+{
+	vertical-align: middle;	
+	margin-bottom:6px;
+}
+
+.padme
+{
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.padme2
+{
+	padding-left:8px;
+	padding-right:8px;
+}
+
+.good
+{
+	color: #00BB00;
+}
+
+.bad
+{
+	color: #BB0000;
+}
+
+h1
+{
+	font-family: verdana;	
+	font-size:14pt;
+	color:#095FA8;
+}
+
+h2
+{
+	font-family: verdana;	
+	font-size:12pt;
+	color:#095FA8;
+	margin-bottom: 5px;
+}
+
+h3
+{
+	font-family: verdana;	
+	font-size:10pt;
+	color:#095FA8;
+}
+
+h4
+{
+    font-family: verdana;
+    font-size:10pt;
+    color:#095FA8;
+    margin-bottom:0px
+}
+
+.olnorm
+{
+	list-style-type: decimal;
+}
+
+.linorm
+{
+}
+
+pre 
+{
+	overflow: auto;
+	width: 900px; 
+}
+
+.hr 
+{
+	text-align:right;
+} 
+
+
+.clear
+{ 
+	clear:both;
+}
+   
+.graphcont 
+{ 
+	padding-top:0px; 
+	color:#000; 
+	font-weight:700; 
+	float:left 
+}
+   
+.graph 
+{ 
+	float:left; 
+	margin-top:0px; 
+	background-color:#efefef; 
+	position:relative; 
+	width:100px; 
+	padding:0 
+}
+   
+.graph .bar 
+{ 
+	display:block; 
+	position:relative; 
+	background-image:url(http://siestorage.ir.intel.com/images/bargraph2.gif); 
+	background-position:right center; 
+	background-repeat:repeat-x; 
+	border-right:#538e02 1px solid; 
+	text-align:center; 
+	color:#fff; 
+	height:15px; 
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:12px; 
+	line-height:1.9em 
+}   
+
+.graph .bar span 
+{ 
+	position:absolute; left:1em 
+} 
