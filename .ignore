@@ -1,0 +1,11 @@
+# Vendored third-party: DataTables (datatables.net, Allan Jardine) stylesheets
+# and demo table CSS shipped with the DataTables 1.9 download.
+css/demo_table.css
+css/demo_table_jui.css
+css/jquery.dataTables.css
+css/jquery.dataTables_themeroller.css
+# Vendored third-party: Highcharts 2.3.3 JS themes (highcharts.com, Torstein Hønsi).
+js/themes/
+
+# Generated: CSV exports written by stoddump/dump.sh (storage allocation dumps per site); data, no comment syntax.
+stoddump/**/*.csv
