@@ -1,5 +1,9 @@
 # EC-SI-SieStorage
 
+<p align="center">
+  <img src=".github/logo.png" alt="EC-SI-SieStorage logo" width="128" />
+</p>
+
 A web dashboard that reports storage usage for the Intel Shannon site.
 
 ## What it does
